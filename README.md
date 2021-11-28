@@ -45,7 +45,7 @@ in the browser.\
 6:Approve Answers /Delete Answers\
 7:Send/Receive messages from users\
 8:Admin requests\
-9:Admin registration\
+9:Admin registration
 
 ![ss7](https://user-images.githubusercontent.com/69143967/143768912-1a3f426a-a35f-42da-8b70-0a0bb6418b41.jpg)
 
