@@ -9,14 +9,14 @@ Step :2 \
 Open XAMPP Control and start Apache server as well as MySql Server\
 Step :3 \
 Now download the source code from this repo\
-And also move the import the sql database from database folder by creating a new database in localhost/phpmyadmin.\  
+And also move the import the sql database from database folder by creating a new database in localhost/phpmyadmin.
 Step :4 \
 Now move the source code folder to this directory C:XAMPP/htdocs\
 Step :5 \
 Now open any browser of your choice and enter localhost/A Discussion Forum For Students/client
 to get client side interface for this project.\
 For Accessing admin interface navigate to this link localhost/A Discussion Forum For Students/Admin
-in the browser.\
+in the browser.
 ## Features in client side interface
 1:Login/Sign Up\
 2:Home \
@@ -26,7 +26,7 @@ in the browser.\
 6:Edit Profile\
 7:Blogs\
 8:Inbox\
-9:Add comment/Upvote/Report/Number of Views\
+9:Add comment/Upvote/Report/Number of Views
 
 ![ss1](https://user-images.githubusercontent.com/69143967/143768855-f1ea6601-bea5-41bd-8c81-6f22332fba60.jpg)\
 ![ss2](https://user-images.githubusercontent.com/69143967/143768858-6a40f4d6-8b0d-4943-a0df-448ae665f7ef.jpg)\
