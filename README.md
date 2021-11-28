@@ -3,48 +3,48 @@ An online Discussion forum for students where the students can get the  accurate
 ## Introduction
 This a disussion forum designed to provide accurate information  to the students because most of the features in this web app are under the control of the admin.This project is designed in php as backend since it is easy to understand and one can learn it quickly.
 ## How to Run ?
-step:1 
-Install XAMPP 
-Step :2 
-Open XAMPP Control and start Apache server as well as MySql Server
-Step :3 
-Now download the source code from this repo
-Step :4 
-Now move the source code folder to this directory C:XAMPP/htdocs
-Step :5 
+step:1 \
+Install XAMPP \
+Step :2 \
+Open XAMPP Control and start Apache server as well as MySql Server\
+Step :3 \
+Now download the source code from this repo\
+Step :4 \
+Now move the source code folder to this directory C:XAMPP/htdocs\
+Step :5 \
 Now open any browser of your choice and enter localhost/A Discussion Forum For Students/client
-to get client side interface for this project.
+to get client side interface for this project.\
 For Accessing admin interface navigate to this link localhost/A Discussion Forum For Students/Admin
-in the browser.
+in the browser.\
 ## Features in client side interface
-1:Login/Sing up
-2:Home 
-3:Subjects
-4:Add questions
-5:Add answers
-6:Edit Profile
-7:Blogs
-8:Inbox
-9:Add comment/Upvote/Report/Number of Views
+1:Login/Sing up\
+2:Home \
+3:Subjects\
+4:Add questions\
+5:Add answers\
+6:Edit Profile\
+7:Blogs\
+8:Inbox\
+9:Add comment/Upvote/Report/Number of Views\
 
 ## Features in Admin side
-1:Admin login
-2:Admin Profile Edit
-3:Approve Users / BLock Users
-4:Add Subjects/ Delete Subjects
-5:Approve Questions/ Delete Questions
-6:Approve Answers /Delete Answers
-7:Send/Receive messages from users
-8:Admin requests
-9:Admin registration
+1:Admin login\
+2:Admin Profile Edit\
+3:Approve Users / BLock Users\
+4:Add Subjects/ Delete Subjects\
+5:Approve Questions/ Delete Questions\
+6:Approve Answers /Delete Answers\
+7:Send/Receive messages from users\
+8:Admin requests\
+9:Admin registration\
 
 Using this forum one can post questions related to the particular subject and also one can answer any type of question availble in this forum by just regustering in this forum
 In this forum everything is under the comtrol of admins .The admin can add or delete users and without the admin's approvals nothing will be posted in the home page of this forum which is very helpfull in eliminating false information and it very useful to provide the accurate and verified information about a particular topic in this forum.
 
 ## Tech Stack
-PHP
-My Sql
-HTML
-CSS
-JS
+PHP\
+My Sql\
+HTML\
+CSS\
+JS\
 
