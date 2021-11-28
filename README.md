@@ -9,7 +9,7 @@ Step :2 \
 Open XAMPP Control and start Apache server as well as MySql Server\
 Step :3 \
 Now download the source code from this repo\
-And also move the import the sql database from database folder by creating a new database in localhost/phpmyadmin.\
+And also import the sql database file from database folder by creating a new database in localhost/phpmyadmin.\
 Step :4 \
 Now move the source code folder to this directory C:XAMPP/htdocs\
 Step :5 \
