@@ -61,3 +61,6 @@ HTML\
 CSS\
 JS
 
+## Future Ideas
+Fortunately, I got the early access to the Open AI's GPT-3 Api using which I want to integrate this api to this project by adding an extra Feature that will help the students to get valuable suggestions to their questions from the web using this powerful API . 
+
