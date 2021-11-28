@@ -33,7 +33,7 @@ in the browser.\
 ![ss3](https://user-images.githubusercontent.com/69143967/143768860-54d28234-7ec9-4dbe-8a87-cd44a17777dc.jpg)\
 ![ss4](https://user-images.githubusercontent.com/69143967/143768865-6eed760e-08e1-45e7-a925-54299e1b524d.jpg)\
 ![ss5](https://user-images.githubusercontent.com/69143967/143768866-98c187d2-cc01-4987-aa02-f4a0becd591a.jpg)\
-![ss6](https://user-images.githubusercontent.com/69143967/143768873-a1eacecc-daf4-47a8-a2e1-f1a1aabad811.jpg)\
+![ss6](https://user-images.githubusercontent.com/69143967/143768873-a1eacecc-daf4-47a8-a2e1-f1a1aabad811.jpg)
 
 
 ## Features in Admin side
@@ -47,7 +47,7 @@ in the browser.\
 8:Admin requests\
 9:Admin registration\
 
-![ss7](https://user-images.githubusercontent.com/69143967/143768912-1a3f426a-a35f-42da-8b70-0a0bb6418b41.jpg)\
+![ss7](https://user-images.githubusercontent.com/69143967/143768912-1a3f426a-a35f-42da-8b70-0a0bb6418b41.jpg)
 
 
 
@@ -59,5 +59,5 @@ PHP\
 My Sql\
 HTML\
 CSS\
-JS\
+JS
 
